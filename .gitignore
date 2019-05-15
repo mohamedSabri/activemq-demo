@@ -1,0 +1,36 @@
+/target/
+/static/
+static
+target
+node_modules
+front/node_modules
+dist
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+
+*.class
+*.sh
+*mvnw*
+.mvn/
+HELP.md
